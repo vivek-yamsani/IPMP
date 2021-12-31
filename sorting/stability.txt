@@ -1,0 +1,9 @@
+stability is that the order of elements(keys) should be in the same order 
+in the sorted list
+
+10(i) 20 2 30 5 10(j) ===>  2 5 10(i) 10(j) 20 30
+
+merge sort,insertion sort,selection sort,bubble sort,
+counting sort(this is stable only if it is ordered from back)  these are stable;
+
+quick ,heap  can be made stable by using space
